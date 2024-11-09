@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Matteo Perona  
-mperona@ucsd.edu
+Matteo Perona and Luke Lin  
